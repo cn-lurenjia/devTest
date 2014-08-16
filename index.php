@@ -8,5 +8,8 @@ function t1(){
 	echo"这里是1.0的代码.";
 	echo"这里是1.0的代码.";
 	echo"BUG解决了.";
+	echo"BUG解决了.";
+	echo"BUG解决了.";
+	echo"BUG解决了.";
 }
 ?>
