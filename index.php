@@ -9,4 +9,10 @@ function t1(){
 	echo"这里是1.0的代码.";
 	echo"BUG解决了.";
 }
+function t2(){
+	echo"这里是2.0的代码.";
+	echo"这里是2.0的代码.";
+	echo"这里是2.0的代码.";
+	echo"这里是2.0的代码.";
+}
 ?>
